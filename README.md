@@ -1,47 +1,44 @@
 <h1 align="center">Hi there 👋, I'm Anindita Rath</h1>
 <h3 align="center">QA Automation Engineer | Writer | Blogger | Speaker</h3>
 
-
-<img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation%20(1).gif" alt="Anindita Rath Banner" width="100%" />
-
+<p align="center">
+  <img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation%20(1).gif" alt="Anindita Rath Banner" width="100%" />
+</p>
 
 ---
 
-### Little Bit About Me 
+### 💬 Little Bit About Me
 
-Hello! I’m Anindita Rath, a passionate QA professional with over 10 years of experience in the IT industry, specializing in software testing and automation. I’ve had the opportunity to work across multiple domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based organizations.
+Hello! I’m **Anindita Rath**, a passionate QA professional with over 10 years of experience in the IT industry, specializing in software testing and automation. I’ve had the opportunity to work across multiple domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based organizations.
 
-My toolkit includes Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Python, Java, and Shell scripting, and I’ve also worked with CI/CD tools like Jenkins and explored AI-powered testing and visual validation techniques.
+My toolkit includes **Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Python, Java**, and **Shell scripting**, and I’ve also worked with **CI/CD tools like Jenkins** and explored **AI-powered testing and visual validation techniques**.
 
-I strongly believe in continuous learning and the philosophy of #SharingIsCaring — which is why I’m here: to share my insights, learnings, and challenges from the world of testing, and to grow alongside this incredible community of testers and technologists.
+I strongly believe in continuous learning and the philosophy of **#SharingIsCaring** — which is why I’m here: to share my insights, learnings, and challenges from the world of testing, and to grow alongside this incredible community of testers and technologists.
 
-
+---
 
 ### 🧩 About Me
 
-🔹 I'm a Quality Engineer with over 10 years of experience in test automation, functional testing, performance testing, and everything in between.
-
-🔹 My work spans across mobile, web, and API automation — blending tools, frameworks, and creativity to drive quality and accelerate delivery.
-
-🔹 I love writing — both test scripts and poetic scripts — and actively share knowledge through blogs and talks.
-
-🔹 I'm passionate about exploring the intersection of **technology, psychology, and storytelling**.
+- 🔹 Quality Engineer with 10+ years of experience in test automation, functional testing, and performance testing.
+- 🔹 Experienced in mobile, web, and API test automation with scalable frameworks.
+- 🔹 Advocate of meaningful testing, clean code, and deep domain understanding.
+- 🔹 A lifelong learner and storyteller passionate about the fusion of tech, psychology, and creativity.
+- 🔹 Also a blogger, poet, and open mic enthusiast — because testing and writing go hand in hand!
 
 ---
 
 ### 🛠 Tech Toolbox
 
-| Area | Tools |
-|------|-------|
+| Category | Tools |
+|----------|-------|
 | **Languages** | Java, Python, Shell |
 | **Automation** | Selenium, Appium, RestAssured, TestNG, JUnit |
-| **Performance Testing** | JMeter |
+| **Performance** | JMeter |
 | **API Testing** | Postman, Charles Proxy |
-| **CI/CD & DevOps** | Jenkins, Maven, Git |
-| **Debugging Tools** | Wireshark, Fiddler, Android Studio |
+| **CI/CD** | Jenkins, Maven, Git |
+| **Debugging & Mobile Tools** | Wireshark, Fiddler, Android Studio |
 
 ---
-
 
 ### 🌐 Connect with Me
 
@@ -68,8 +65,6 @@ I strongly believe in continuous learning and the philosophy of #SharingIsCaring
     <img src="https://img.shields.io/badge/LeetCode-Anindita_Rath-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
-
 
 ---
 
