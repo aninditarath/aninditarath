@@ -25,12 +25,12 @@ Driven by the philosophy of #SharingIsCaring, I’m here to contribute, collabor
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Java, Python, Shell |
+| **Languages** | Java |
 | **Automation** | Selenium, Appium, RestAssured, TestNG, JUnit |
 | **Performance** | JMeter |
-| **API Testing** | Postman, Charles Proxy |
+| **API Testing** | Postman |
 | **CI/CD** | Jenkins, Maven, Git |
-| **Debugging & Mobile Tools** | Wireshark, Fiddler, Android Studio |
+| **Debugging & Mobile Tools** | Android Studio, Eclipse , Intelij |
 
 ---
 
