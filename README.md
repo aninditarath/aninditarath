@@ -1,7 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Anindita Rath</h1>
 <h3 align="center">QA Automation Engineer | Writer | Blogger | Speaker</h3>
 
-<img src="images/header.gif" alt="Anindita Rath Header" width="100%" />
+
+<img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation.gif" alt="Anindita Rath Banner" width="100%" />
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aninditarath&show_icons=true&theme=material-palenight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aninditarath&theme=material-palenight" />
+</p>
 
 ---
 
