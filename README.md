@@ -9,23 +9,15 @@
 
 ### 💬 Little Bit About Me
 
-Hello! I’m **Anindita Rath**, a passionate QA professional with over 10 years of experience in the IT industry, specializing in software testing and automation. I’ve had the opportunity to work across multiple domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based organizations.
+Hello! I’m Anindita Rath, a QA Automation Engineer with over 10 years of experience in the IT industry. I’ve worked across diverse domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based companies. My focus is on building reliable, scalable, and efficient test automation solutions that ensure product quality at every stage.
 
-My toolkit includes **Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Python, Java**, and **Shell scripting**, and I’ve also worked with **CI/CD tools like Jenkins** and explored **AI-powered testing and visual validation techniques**.
+My toolkit includes Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Python, Java, and Shell scripting, along with CI/CD tools like Jenkins, Maven, and Git. I’ve also explored emerging areas like AI-powered testing and visual validation techniques to enhance coverage and user experience.
 
-I strongly believe in continuous learning and the philosophy of **#SharingIsCaring** — which is why I’m here: to share my insights, learnings, and challenges from the world of testing, and to grow alongside this incredible community of testers and technologists.
+I strongly believe that testing goes beyond scripts—it's about clean code, domain understanding, and user empathy. Outside of my technical work, I’m a blogger, poet, and open mic performer, always seeking creative ways to express ideas and share knowledge.
 
+Driven by the philosophy of #SharingIsCaring, I’m here to contribute, collaborate, and grow with this incredible community of testers, technologists, and creatives.
 ---
 
-### 🧩 About Me
-
-- 🔹 Quality Engineer with 10+ years of experience in test automation, functional testing, and performance testing.
-- 🔹 Experienced in mobile, web, and API test automation with scalable frameworks.
-- 🔹 Advocate of meaningful testing, clean code, and deep domain understanding.
-- 🔹 A lifelong learner and storyteller passionate about the fusion of tech, psychology, and creativity.
-- 🔹 Also a blogger, poet, and open mic enthusiast — because testing and writing go hand in hand!
-
----
 
 ### 🛠 Tech Toolbox
 
