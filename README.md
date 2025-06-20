@@ -16,6 +16,8 @@ My toolkit includes Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Pytho
 I strongly believe that testing goes beyond scripts—it's about clean code, domain understanding, and user empathy. Outside of my technical work, I’m a blogger, poet, and open mic performer, always seeking creative ways to express ideas and share knowledge.
 
 Driven by the philosophy of #SharingIsCaring, I’m here to contribute, collaborate, and grow with this incredible community of testers, technologists, and creatives.
+
+
 ---
 
 
