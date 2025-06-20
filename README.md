@@ -39,19 +39,23 @@
   <a href="https://linktr.ee/aninditarath" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-%40aninditarath-green?style=for-the-badge&logo=linktree" />
   </a>
-  <a href="https://linkedin.com/in/aninditarath" target="_blank">
+  <a href="https://www.linkedin.com/in/rathanindita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anindita_Rath-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/aninditarath" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@aninditarath-1DA1F2?logo=twitter&style=for-the-badge" />
+  <a href="https://x.com/rath_anindita" target="_blank">
+    <img src="https://img.shields.io/badge/X-@rath_anindita-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/aninditarath" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@aninditarath-E4405F?logo=instagram&style=for-the-badge" />
+  <a href="https://www.instagram.com/anindita_rath/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@anindita_rath-E4405F?logo=instagram&style=for-the-badge" />
   </a>
   <a href="https://scrambledwriter.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-scrambledwriter.com-orange?style=for-the-badge&logo=blogger" />
   </a>
+  <a href="https://leetcode.com/u/anindita_rath/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Anindita_Rath-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
 
 ---
 
