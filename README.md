@@ -51,10 +51,14 @@
   <a href="https://scrambledwriter.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-scrambledwriter.com-orange?style=for-the-badge&logo=blogger" />
   </a>
+  <a href="https://aninditarath.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-aninditarath.com-8A2BE2?style=for-the-badge&logo=githubpages" />
+  </a>
   <a href="https://leetcode.com/u/anindita_rath/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Anindita_Rath-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
 
 
 ---
