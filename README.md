@@ -32,32 +32,35 @@
 
 ---
 
-### 🔍 Featured Projects
+### ✨ GitHub Stats
 
-- 🧪 [Appium Test Suite](https://github.com/aninditarath/Appium-Test-Suite) — Real-world Android automation using Appium 2.x
-- 🌐 [API Testing Framework](https://github.com/aninditarath/API-Testing-RestAssured) — Modular RestAssured setup with data-driven tests
-- 📈 [Performance Testing Scripts](https://github.com/aninditarath/Performance-Testing-JMeter) — Sample JMeter plans with practical use cases
-- 🧩 [Selenium Test Framework](https://github.com/aninditarath/Selenium-TestNG-Framework) — Scalable framework built using Java, TestNG, Maven
-
----
-
-
-### 💡 Fun Fact
-
-> I'm as comfortable writing automation scripts as I am writing poetry. Testing is my career, writing is my soul — and together, they help me build with empathy and precision.
-
----
-
-### 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/aninditarath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anindita_Rath-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/aninditarath" target="_blank"><img src="https://img.shields.io/badge/Twitter-@aninditarath-1DA1F2?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://instagram.com/aninditarath" target="_blank"><img src="https://img.shields.io/badge/Instagram-@aninditarath-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://scrambledwriter.com" target="_blank"><img src="https://img.shields.io/badge/Blog-scrambledwriter.com-orange?style=for-the-badge&logo=blogger" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aninditarath&show_icons=true&theme=material-palenight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aninditarath&theme=material-palenight" />
 </p>
 
 ---
 
-⭐️ *Thanks for stopping by. Feel free to explore my work, fork a project, or just say hello!*
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://linktr.ee/aninditarath" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-%40aninditarath-green?style=for-the-badge&logo=linktree" />
+  </a>
+  <a href="https://linkedin.com/in/aninditarath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anindita_Rath-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/aninditarath" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@aninditarath-1DA1F2?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/aninditarath" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@aninditarath-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="https://scrambledwriter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-scrambledwriter.com-orange?style=for-the-badge&logo=blogger" />
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting. Let’s keep learning, building, and sharing!*
