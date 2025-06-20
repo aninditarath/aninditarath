@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Anindita Rath</h1>
 <h3 align="center">QA Automation Engineer | Writer | Blogger | Speaker</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Test+with+Purpose+%7C+Write+with+Heart+%7C+Build+with+Curiosity" alt="Typing SVG" />
-</p>
+<img src="images/header.gif" alt="Anindita Rath Header" width="100%" />
 
 ---
 
