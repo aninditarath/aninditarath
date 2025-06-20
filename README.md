@@ -5,11 +5,6 @@
 <img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation.gif" alt="Anindita Rath Banner" width="100%" />
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aninditarath&show_icons=true&theme=material-palenight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aninditarath&theme=material-palenight" />
-</p>
-
 ---
 
 ### 🧩 About Me
@@ -37,14 +32,6 @@
 
 ---
 
-### ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aninditarath&show_icons=true&theme=material-palenight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aninditarath&theme=material-palenight" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
