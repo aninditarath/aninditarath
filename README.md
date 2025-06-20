@@ -7,6 +7,16 @@
 
 ---
 
+### Little Bit About Me 
+
+Hello! I’m Anindita Rath, a passionate QA professional with over 10 years of experience in the IT industry, specializing in software testing and automation. I’ve had the opportunity to work across multiple domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based organizations.
+
+My toolkit includes Selenium, Appium, RestAssured, Postman, TestNG, JUnit, Python, Java, and Shell scripting, and I’ve also worked with CI/CD tools like Jenkins and explored AI-powered testing and visual validation techniques.
+
+I strongly believe in continuous learning and the philosophy of #SharingIsCaring — which is why I’m here: to share my insights, learnings, and challenges from the world of testing, and to grow alongside this incredible community of testers and technologists.
+
+
+
 ### 🧩 About Me
 
 🔹 I'm a Quality Engineer with over 10 years of experience in test automation, functional testing, performance testing, and everything in between.
