@@ -11,7 +11,7 @@
 
 Hello! I’m Anindita Rath, a QA Automation Engineer with over 10 years of experience in the IT industry. I’ve worked across diverse domains including enterprise mobility, telecom, and cloud platforms, contributing to both MNCs and product-based companies. My focus is on building reliable, scalable, and efficient test automation solutions that ensure product quality at every stage.
 
-My toolkit includes **Selenium, Appium, RestAssured, Postman, TestNG,** **JUnit**, Python, **Java**, and along with CI/CD tools like **Jenkins, Maven, and Git**. I’ve also explored emerging areas like AI-powered testing and visual validation techniques to enhance coverage and user experience.
+My toolkit includes **Selenium, Appium, RestAssured, Postman, TestNG,** **JUnit**, **Java**, and along with CI/CD tools like **Jenkins, Maven, and Git**. I’ve also explored emerging areas like AI-powered testing and visual validation techniques to enhance coverage and user experience.
 
 I strongly believe that testing goes beyond scripts—it's about clean code, domain understanding, and user empathy. Outside of my technical work, I’m a blogger, poet, and open mic performer, always seeking creative ways to express ideas and share knowledge.
 
