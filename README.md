@@ -2,7 +2,7 @@
 <h3 align="center">QA Automation Engineer | Writer | Blogger | Speaker</h3>
 
 
-<img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation.gif" alt="Anindita Rath Banner" width="100%" />
+<img src="https://github.com/aninditarath/aninditarath/blob/main/Green%20and%20Blue%20Simple%20Animated%20Presentation%20(1).gif" alt="Anindita Rath Banner" width="100%" />
 
 
 ---
